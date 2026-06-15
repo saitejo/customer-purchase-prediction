@@ -130,4 +130,16 @@ Runs top to bottom, generates `submission.csv` with predictions.
 - [ ] Handle class imbalance with SMOTE
 
 ## Project Structure
-custome
+customer-purchase-prediction/
+
+├── notebook.ipynb      # Complete ML pipeline
+
+├── submission.csv      # Final predictions
+
+├── report.pdf          # Methodology summary
+
+├── requirements.txt    # Python dependencies
+
+├── .gitignore          # Excludes data files
+
+└── README.md           # This file
